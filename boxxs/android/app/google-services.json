@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "952527257685",
+    "firebase_url": "https://boxxs-121a5.firebaseio.com",
+    "project_id": "boxxs-121a5",
+    "storage_bucket": "boxxs-121a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952527257685:android:6b5a5197583037353854dc",
+        "android_client_info": {
+          "package_name": "com.example.boxxs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952527257685-kivif2m93su6608dpgnipf3u173vj02c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXBEX_TjLOIr8D4uccfRDZdmMkRlGUlPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952527257685-kivif2m93su6608dpgnipf3u173vj02c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
